@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="evenodd"
+   xml:space="preserve"
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 16000 16000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg6"
+   sodipodi:docname="catppuccin_mocha_saphhire_aternos_logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs6" /><sodipodi:namedview
+   id="namedview6"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm"
+   inkscape:zoom="0.67027778"
+   inkscape:cx="566.92913"
+   inkscape:cy="566.92913"
+   inkscape:window-width="1465"
+   inkscape:window-height="952"
+   inkscape:window-x="155"
+   inkscape:window-y="90"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg6" />
+<g
+   id="g6">
+ <path
+   fill="#2b87d3"
+   d="M0 8000 l0 -8000 8000 0 8000 0 0 8000 0 8000 -8000 0 -8000 0 0 -8000z m13990 0 l0 -5990 -5990 0 -5990 0 0 5990 0 5990 5990 0 5990 0 0 -5990z"
+   id="path1"
+   style="fill:#74c7ec;fill-opacity:1" />
+ <path
+   fill="#2b87d3"
+   d="M2995 12998 c-3 -7 -4 -911 -3 -2008 l3 -1995 1005 0 1005 0 3 997 2 998 998 2 997 3 0 1005 0 1005 -2003 3 c-1597 2 -2004 0 -2007 -10z"
+   id="path2"
+   style="fill:#74c7ec;fill-opacity:1" />
+ <path
+   fill="#2b87d3"
+   d="M8995 12998 c-3 -7 -4 -461 -3 -1008 l3 -995 997 -3 998 -2 2 -998 3 -997 1005 0 1005 0 0 2005 0 2005 -2003 3 c-1597 2 -2004 0 -2007 -10z"
+   id="path3"
+   style="fill:#74c7ec;fill-opacity:1" />
+ <path
+   fill="#2b87d3"
+   d="M5995 9998 c-3 -7 -4 -911 -3 -2008 l3 -1995 2005 0 2005 0 0 2005 0 2005 -2003 3 c-1597 2 -2004 0 -2007 -10z"
+   id="path4"
+   style="fill:#74c7ec;fill-opacity:1" />
+ <path
+   fill="#2b87d3"
+   d="M2995 6998 c-3 -7 -4 -911 -3 -2008 l3 -1995 2005 0 2005 0 0 1005 0 1005 -997 3 -998 2 -2 998 -3 997 -1003 3 c-797 2 -1004 0 -1007 -10z"
+   id="path5"
+   inkscape:label="path5"
+   style="fill:#74c7ec;fill-opacity:1" />
+ <path
+   fill="#2b87d3"
+   d="M10997 7003 c-4 -3 -7 -453 -7 -1000 l0 -993 -997 -2 -998 -3 0 -1005 0 -1005 2005 0 2005 0 0 2005 0 2005 -1001 3 c-550 1 -1004 -1 -1007 -5z"
+   id="path6"
+   inkscape:label="path6"
+   style="fill:#74c7ec;fill-opacity:1" />
+ </g>
+</svg>
